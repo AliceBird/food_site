@@ -1,0 +1,70 @@
+.hero {
+    list-style: none;
+    padding-left: 0;
+    background-repeat: no-repeat;
+    background-image: url("CSmJnTefxM 1.svg");
+    background-position: right;
+
+}
+
+.hero__wrapper {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.hero__main {
+
+}
+
+.hero__title {
+    width: 555px;
+    height: 161px;
+    font-size: 55px;
+    font-weight: 500;
+    padding-top: 174px;
+    padding-bottom: 42px;
+    font-family: 'Philosopher', sans-serif;
+    padding-right: 40px;
+
+
+}
+
+.hero__discription-1 {
+    width: 555px;
+    height: 43px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 42px;
+    margin-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.hero__button {
+    background-color: #DC780B;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    padding: 21px 41px 20px 40px;
+    margin-top: 50px;
+    margin-right: 30px;
+    border: none;
+
+}
+
+.hero__button_fillout {
+    background-color: white;
+    color: #DC780B;
+    padding: 21px 40px 20px 40px;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.hero__button_fillout:active {
+    background-color: #DC780B;
+    color: white;
+}

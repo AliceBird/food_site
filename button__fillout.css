@@ -1,0 +1,25 @@
+.menu__button-fillout-1 {
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-right: auto;
+}
+
+
+.menu__button-fillout{
+    display: flex;
+    background-color: white;
+    color: #DC780B;
+    padding: 11px 30px 12px 30px;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+
+}
+
+.menu__button-fillout:active {
+    background-color: #DC780B;
+    color: white;
+}

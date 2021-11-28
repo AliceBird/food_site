@@ -1,0 +1,37 @@
+.menu__title__main{
+
+}
+
+.menu__wrapper{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.menu__h3{
+    align-items: center;
+    color: #DC780B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 116px;
+}
+
+.menu__title{
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    align-items: center;
+}
+
+.menu__discription{
+    height: 76px;
+    padding-bottom: 21px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    opacity: 70%;
+}

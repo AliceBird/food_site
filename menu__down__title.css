@@ -1,0 +1,122 @@
+html {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    /*box-sizing: inherit;*/
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.menu-cards {
+
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/*menu-card*/
+
+.menu-cards__item {
+    padding-right: 30px;
+    /*display: flex;*/
+    /*justify-content: inherit;*/
+    padding-bottom: 30px;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: left;
+    width: 33%;
+
+}
+
+.menu-cards__wrapper{
+    margin-right: -30px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.menu-card__wrapper{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 75px 10px 10px 10px;
+}
+
+.menu-card__image-wrapper{
+    width: 360px;
+    height: 264px;
+    border-radius: 76px 10px 76px 0;
+    overflow: hidden;
+}
+
+.menu-card__image{
+object-fit: cover;
+}
+
+.menu-card__text-container{
+    padding: 25px;
+}
+
+.menu__button {
+    background-color: #DC780B;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.menu__down__wrapper__button__plus {
+
+}
+
+.menu__down__wrapper__title {
+
+}
+
+.menu__down__wrapper__title__h3_h2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__down__h3 {
+    /*width: 70%;*/
+    font-family: 'Philosopher', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: left;
+    margin: 0;
+
+}
+
+.menu__down__price {
+    /*width: 30%;*/
+    font-family: 'Philosopher', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: right;
+    /*padding-left: 128px;*/
+    margin: 0;
+
+}
+
+.menu__down__discription {
+    /*width: 79px;*/
+    /* padding-top: 25px;
+     padding-bottom: 21px;*/
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    /*font-weight: 400;*/
+    /*text-align: center;*/
+    opacity: 70%;
+
+}
+
+.menu__down__wrapper__button {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.menu__button_fillout {
+
+}
