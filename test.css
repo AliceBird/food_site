@@ -1,0 +1,68 @@
+.test__main{
+    max-width: 1140px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.test__wrapper{
+
+}
+
+.test__wrapper__title{
+
+}
+
+.test__h3{
+    align-items: center;
+    color: #DC780B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 147px;
+}
+
+.test__title{
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    align-items: center;
+}
+
+.test__discription{
+    /*width: 750px;*/
+    /*height: 76px;*/
+    align-items: center;
+    /*padding-bottom: 21px;*/
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    opacity: 60%;
+}
+
+.test__image-wrapper{
+    align-items: center;
+    padding-top: 73px;
+    padding-bottom: 41px;
+    /*margin-left: 683px;*/
+}
+
+.test__image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.test__wrapper__under-title{
+
+}
+
+.test__wrapper__button__star{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*align-items: center;*/
+}

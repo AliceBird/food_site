@@ -1,0 +1,106 @@
+.phone {
+    max-width: 1140px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-image: url("pink-renc.svg");
+    list-style: none;
+}
+
+.phone-card__image-wrapper {
+    width: 323.14px;
+    height: 651px;
+    border-radius: 59px;
+    overflow: hidden;
+}
+
+.phone-card__image {
+    /*object-fit: cover;*/
+}
+
+.phone__wrapper {
+    margin-left: 247px;
+    margin-top: 187px;
+    display: flex;
+    justify-content: space-between;
+
+    /*padding-left: 0;*/
+
+    /*background-position: right;*/
+}
+
+
+.phone__main {
+    /*width: 555px;*/
+    /*height: 275px;*/
+
+    /*margin-top: 114px;*/
+    /*margin-top: 114px;*/
+    /*margin-left: 247px;*/
+    /*margin-bottom: 129px;*/
+
+}
+
+.phone__title-1 {
+    /*align-items: center;*/
+    color: #DC780B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    /*text-align: left;*/
+    padding-top: 116px;
+    /*margin-bottom: 5px;*/
+}
+
+.phone__title-2 {
+    width: 555px;
+    /*text-align: center;*/
+    font-family: 'Philosopher', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    /*align-items: center;*/
+}
+
+.phone__discription {
+    width: 555px;
+    height: 66px;
+    padding-bottom: 21px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    /*text-align: center;*/
+    opacity: 70%;
+}
+
+.phone__button-all {
+
+}
+
+.phone__button {
+    background-color: #150C01;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 15px;
+    margin-right: 30px;
+    display: inline-flex;
+    align-items: center;
+    border-radius: 5px;
+
+
+}
+
+.phone__button_fillout {
+    background-color: #FBF1E7;
+    color: #150C01;
+    /*opacity: 0.1;*/
+    /*z-index: -1;*/
+    /*border: 2px solid transparent;*/
+    border: none;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+    /*border: 1.5px solid #150C01;*/
+    /*border: 1px solid #ccc transparent;*/
+    /*box-shadow: 0 0 1px rgba(0, 0, 0, 0.80)*/
+}

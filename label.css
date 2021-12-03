@@ -1,0 +1,38 @@
+.label__wrapper {
+    max-width: 1140px;
+    margin: 0 auto;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-color: #FBF1E7;
+    list-style: none;
+}
+
+.label__block {
+    /*background: #673ab7;*/
+    padding: 32px;
+    width: 60%;
+
+}
+
+.form__wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 117px;
+}
+
+.test__title{
+
+}
+
+.label__button {
+
+    background-color: #DC780B;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    padding: 21px 41px 20px 40px;
+    border: none;
+}
